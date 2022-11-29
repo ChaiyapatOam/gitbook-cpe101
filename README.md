@@ -1,9 +1,7 @@
 ---
-description: >-
-  สวัสดีครับ ผมนาย ชัยภัทร มียิ่ง รหัสนักศึกษา 65070501073 เซค B
-  ภาควิชาวิศวกรรมคอมพิวเตอร์
+description: Engineering Exploration Reflective Writting
 ---
 
-# Hello, Welcome
+# CPE101
 
-This site is made for reflective writing in a section of class CPE101 Engineering Exploration
+### สวัสดีครับ ผมนาย ชัยภัทร มียิ่ง รหัสนักศึกษา 65070501073 เซค B ภาควิชาวิศวกรรมคอมพิวเตอร์&#x20;
