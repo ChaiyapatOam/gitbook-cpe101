@@ -1,4 +1,17 @@
 # Table of contents
 
 * [CPE101](README.md)
-* [Week1](<README (1).md>)
+* [🖥 Week1 : Class Introduction](<README (1).md>)
+* [🧑🤝🧑 Week2 : Discuss & Consensus](week2-discuss-and-consensus.md)
+* [✏ Week3 : 2D Drawing](week3-2d-drawing.md)
+* [📷 Week4 : 3D Drawing](week4-3d-drawing.md)
+* [⚡ Week5 : Basic Circuit TinkerCAD](week5-basic-circuit-tinkercad.md)
+* [🖨 Week6 : Micro:bit](week6-micro-bit.md)
+* [🎮 Week7 : Build a Simple Game](week7-build-a-simple-game.md)
+* [💾 Week8 : Introduction to Application Development](week8-introduction-to-application-development.md)
+* [👽 Week10 : Introduction to AI and Machine Learning](week10-introduction-to-ai-and-machine-learning.md)
+* [Happy Coding](happy-coding.md)
+* [Gambler Project](gambler-project.md)
+* [Final Project](final-project.md)
+* [Three Challenges](three-challenges.md)
+* [Week](week.md)
