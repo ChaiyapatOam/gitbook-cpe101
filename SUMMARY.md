@@ -9,7 +9,7 @@
 * [🖨 Week6 : Micro:bit](week6-micro-bit.md)
 * [🎮 Week7 : Build a Simple Game](week7-build-a-simple-game.md)
 * [💾 Week8 : Introduction to Application Development](week8-introduction-to-application-development.md)
-* [👽 Week10 : Introduction to AI and Machine Learning](week10-introduction-to-ai-and-machine-learning.md)
+* [🤖 Week10 : Introduction to AI and Machine Learning](week10-introduction-to-ai-and-machine-learning.md)
 * [Happy Coding](happy-coding.md)
 * [Gambler Project](gambler-project.md)
 * [Final Project](final-project.md)
